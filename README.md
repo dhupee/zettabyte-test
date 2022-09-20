@@ -1,3 +1,3 @@
 # zettabyte-test
 
-My Submission for technical test of Zettabyte
+My Submission for the technical test of Zettabyte

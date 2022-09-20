@@ -2,7 +2,8 @@
     "grammarly.selectors": [
         {
             "language": "markdown",
-            "scheme": "vscode-notebook-cell"
+            "scheme": "vscode-jupyter-markdown",
+            "pattern": "*.md"
         }
     ]
 }
